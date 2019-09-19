@@ -1,5 +1,16 @@
 ### 1、标题
     文字前面加 # 号再加空格,后接标题文字即可。几级标题加几个"#"号.
-    ![标题](https://github.com/noobwbw/ops/blob/master/image_folder/%E6%A0%87%E9%A2%98.jpg)
+    ![标题]
+    (https://github.com/noobwbw/ops/blob/master/image_folder/%E6%A0%87%E9%A2%98.jpg)
 ### 2、引用
     引用前面加上 > 号
+    
+### 3、添加超链接
+    [链接显示名称](链接地址)
+
+### 4、添加图片
+    ![图片不显示时展示的标题](图片链接)
+    
+### 5、粗体和斜体
+    **需加粗文字**
+    *需斜体展示的文字*
