@@ -1,5 +1,6 @@
 ### 1、标题
     文字前面加 # 号再加空格,后接标题文字即可。几级标题加几个"#"号.
-    ![标题.jpg](https://i.loli.net/2019/09/19/jTbcEVFgPAY3COU.jpg)
+    ![标题.jpg]
+    (https://i.loli.net/2019/09/19/jTbcEVFgPAY3COU.jpg)
 ### 2、引用
     引用前面加上 > 号
